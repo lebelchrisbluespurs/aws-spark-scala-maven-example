@@ -1,4 +1,4 @@
-package net.ctest.sparktest
+/*package net.ctest.sparktest
 
 import com.typesafe.config.ConfigFactory
 import org.apache.spark.sql.SparkSession
@@ -47,3 +47,4 @@ trait SparkEnv {
     getSession.conf.getAll.map { case(k,v) => "Key: [%s] Value: [%s]" format (k,v)} mkString("","\n","\n")
   }
 }
+*/

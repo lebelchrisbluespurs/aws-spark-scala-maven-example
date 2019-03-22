@@ -1,4 +1,4 @@
-package net.ctest.sparktest
+/*package net.ctest.sparktest
 
 import java.io.InputStream
 
@@ -35,3 +35,4 @@ class SparkTest extends fixture.FunSuite with Logging {
     scala.io.Source.fromInputStream(is).getLines.toSeq
   }
 }
+*/
